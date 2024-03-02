@@ -23,7 +23,7 @@ pipeline{
                 // Define deployment steps here
                 echo "Deploying the project"
             }
-
+ 
             }
 
         }
